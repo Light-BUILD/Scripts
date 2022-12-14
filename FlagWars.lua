@@ -1,7 +1,7 @@
 --Flag Wars
 local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
 local win = SolarisLib:New({
-  Name = "LightHub&DarkHub",
+  Name = "Light&DarkHub",
   FolderToSave = "LightHubStuff"
 })
 local tab = win:Tab("Main")
